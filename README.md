@@ -23,7 +23,7 @@ SQL has been a patient sweet-heart. For years I misunderstood and therefore misu
 
 To-do:
 
-* Acquire remaining 2/3 unit data available via battle.net
+* Acquire remaining 1/3 unit data available via battle.net
 * Manually augment acquired data to include number-of-hits (why this isn't on b.net I dunno)
 * Provide Rails application that provides graphs of included SQL-queries
 * Write more SQL-queries
@@ -31,6 +31,6 @@ To-do:
 Accomplished:
 
 * Write version 1
-* Acquire about 1/3 unit data available via battle.net
+* Acquire about 2/3 unit data available via battle.net
 * Write script to push data into PostgreSQL
 * Write basic SQL-queries against acquired data
